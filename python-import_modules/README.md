@@ -1,39 +1,22 @@
-# Enhancing Code Quality and Efficiency with ChatGPT
+# Python - Import & Modules
 
 **Author: Noura Alotibi**
 
 ## Description
 
-This project is part of the Holberton School curriculum and explores
-how to integrate artificial intelligence into everyday coding practices.
-It focuses on two pivotal aspects of software development: debugging and automation.
+This project focuses on how to import functions, variables, and modules in Python,
+and how to use command-line arguments in Python programs.
 
-## Objectives
-
-- **Debugging:** Use ChatGPT to diagnose and correct bugs in code samples
-  across multiple programming languages.
-- **Automation:** Learn how to automate repetitive coding tasks with the
-  assistance of ChatGPT, including generating boilerplate code, documentation,
-  and basic unit tests.
-
-## Outcomes
-
-- **Enhanced Debugging Skills:** Gain confidence in troubleshooting and
-  refining code with AI-driven solutions.
-- **Automation Proficiency:** Develop skills to leverage AI for automating
-  coding tasks, leading to more structured and error-free code.
-
-## Tasks
+## Files
 
 | File | Description |
 |------|-------------|
-| `debugging/factorial.py` | Fix infinite loop in factorial function |
-| `debugging/print_arguments.py` | Fix script to print only arguments without filename |
-| `debugging/change_background.html` | Fix typo in button ID for background color change |
-| `debugging/mines.py` | Add win condition to Minesweeper game |
-| `debugging/factorial_recursive.py` | Add documentation to recursive factorial function |
-| `debugging/checkbook.py` | Add error handling for invalid input |
-| `debugging/tic.py` | Fix multiple bugs in Tic Tac Toe game |
+| `0-add.py` | Imports and uses an add function |
+| `1-calculation.py` | Imports and uses calculator functions |
+| `2-args.py` | Prints number and list of arguments |
+| `3-infinite_add.py` | Adds all command-line arguments |
+| `4-hidden_discovery.py` | Prints names from a compiled module |
+| `5-variable_load.py` | Imports and prints a variable |
 
 ## Author
 
